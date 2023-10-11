@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zahidseyyid&show_icons=true&theme=dark"
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidseyyid&layout=compact)
+</p>
